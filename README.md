@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Trong and this is some ìnomation about me:
+My name is Trong and this is some infomation about me:
 - 👍 My name is Trong Tran Binh 
 - 📅 Date of birth: Feb, 02 2001
 - Live and study in Ha Noi
