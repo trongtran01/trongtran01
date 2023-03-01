@@ -11,5 +11,3 @@ My name is Trong and this is some infomation about me:
   + 📱 Phone number: 0965814299
   + 📫 Gmail: tranbinhtrong937@gmail.com
   + 👨‍ Social Network: https://www.facebook.com/profile.php?id=100009485204962
-- ⚡ Fun fact: I don't have a girlfriend yet 💔
-
