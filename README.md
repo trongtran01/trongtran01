@@ -5,8 +5,8 @@ My name is Trong and this is some infomation about me:
 - Live and study in Ha Noi
 - 🔭 I’m currently a student...
 - 🌱 I’m currently learning Ha Noi University of Industry
-- 👯 I’m looking to collaborate on JavaScript / ReactJS
-- 💬 Ask me about JavaScript / ReactJS
+- 👯 I’m looking to collaborate on PHP / Laravel
+- 💬 Ask me about Laravel
 - 📫 How to reach me:
   + 📱 Phone number: 0965814299
   + 📫 Gmail: tranbinhtrong937@gmail.com
