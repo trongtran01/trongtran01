@@ -1,13 +1,12 @@
-### Hi there 👋
-My name is Trong and this is some infomation about me:
-- 👍 My name is Trong Tran Binh 
-- 📅 Date of birth: Feb, 02 2001
-- Live and study in Ha Noi
-- 🔭 I’m currently a student...
-- 🌱 I’m currently learning Ha Noi University of Industry
-- 👯 I’m looking to collaborate on PHP / Laravel
-- 💬 Ask me about Laravel
-- 📫 How to reach me:
-  + 📱 Phone number: 0965814299
-  + 📫 Gmail: tranbinhtrong937@gmail.com
-  + 👨‍ Social Network: https://www.facebook.com/profile.php?id=100009485204962
+Hi there 👋
+My name is Trong and here’s a bit about me:
+👍 Full name: Tran Binh Trong
+📅 Date of birth: February 2, 2001
+📍 Living and working in Ha Noi, Vietnam
+🔭 I’m currently a Frontend Developer with strong experience in HTML, SCSS, TailwindCSS, AlpineJS, jQuery, and JavaScript frameworks.
+🌱 I also have working experience with PHP (Laravel, Magento 2) and MySQL.
+👯 I’m looking to collaborate on Frontend projects and Web Development using modern technologies.
+💬 Ask me about responsive UI development, TailwindCSS, AlpineJS, and optimizing frontend performance.
+📫 How to reach me:
+📱 Phone number: 0965814299
+📧 Email: tranbinhtrong937@gmail.com
