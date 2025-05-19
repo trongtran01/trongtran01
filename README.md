@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi+there%2C+I'm+ToBii;Programming+is+life%2C+work%2C+and+art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi+there%2C+I'm+ToBii;Programming+is+work%2C+life%2C+and+art" alt="Typing SVG" />
 </div>
 
 ###
