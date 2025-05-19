@@ -51,11 +51,12 @@
 <br clear="both">
 
 <img
-  src="https://raw.githubusercontent.com/trongtran01/trongtran01/blob/output/snake.svg"
+  src="https://raw.githubusercontent.com/trongtran01/trongtran01/output/snake.svg"
   alt="Snake animation"
   loading="lazy"
   style="max-width:100%; height:auto;"
 />
+
 
 ###
 
