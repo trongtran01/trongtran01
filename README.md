@@ -35,7 +35,18 @@
 
 ###
 
-<p align="left">I'm Tran Binh Trong from Ha Noi, Viet Nam<br><br>- 🔭 I’m web developer<br>- 📚 I'm currently learning everyting about Javascript</p>
+
+- 👍 Full name: Tran Binh Trong
+
+- 📅 Date of birth: February 2, 2001
+
+- 📍 Living and working in Ha Noi, Vietnam
+
+- 🔭 I’m currently a Web Developer with strong experience in HTML, CSS, Javascript, Typescript, PHP and framework (ReactJS, NodeJS, Laravel, Zend,...)
+
+- 👯 I’m looking to collaborate on Web Development using modern technologies.
+
+- 📱 Phone number: 0965814299
 
 ###
 
