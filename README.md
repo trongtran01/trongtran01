@@ -42,7 +42,7 @@
 
 - 📍 Living and working in Ha Noi, Vietnam
 
-- 🔭 I’m currently a Web Developer with strong experience in HTML, CSS, Javascript,Docker, PHP and framework (ReactJS, NodeJS, Laravel, Zend,...)
+- 🔭 I’m currently a Web Developer with strong experience in HTML, CSS, Javascript, Docker, PHP and framework (ReactJS, NodeJS, Laravel, Zend,...)
 
 - 👯 I’m looking to collaborate on Web Development using modern technologies.
 
