@@ -81,6 +81,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
+  <img src="assets/logo/71124897.png" height="30" alt="Hyvä Theme logo" />
 </div>
 
 ###
