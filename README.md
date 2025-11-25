@@ -53,38 +53,20 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-        alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img width="12" />
-    <img src="assets/JS.png" height="30" alt="Javascript logo" />
-    <img src="assets/php-logo-png_seeklogo-265704.png" height="30" alt="PHP logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"
-        alt="react logo" />
-    <img width="12" />
-    <img src="assets/nodejs-icon.svg" height="30" alt="Nodejs logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
-        alt="github logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30"
-        alt="docker logo" />
-    <img width="12" />
-    <img src="assets/laravel.jpeg" height="30" alt="Laravel logo" />
-    <img width="12" />
-    <img src="assets/mysql.png" height="30" alt="MySQL logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30"
-        alt="magento logo" />
-    <img width="12" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo" />
-    <img width="12" />
+<div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+    <img src="assets/logo/JS.png" height="30" alt="JavaScript logo" />
+    <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="30" alt="PHP logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+    <img src="assets/logo/nodejs-icon.svg" height="30" alt="Nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="Docker logo" />
+    <img src="assets/logo/laravel.jpeg" height="30" alt="Laravel logo" />
+    <img src="assets/logo/mysql.png" height="30" alt="MySQL logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" alt="Magento logo" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="TailwindCSS logo" />
     <img src="assets/logo/71124897.png" height="30" alt="Hyvä Theme logo" />
 </div>
-
 ###
