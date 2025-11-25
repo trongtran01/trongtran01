@@ -53,6 +53,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
@@ -69,4 +70,5 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="TailwindCSS logo" />
     <img src="assets/logo/71124897.png" height="30" alt="Hyvä Theme logo" />
 </div>
+
 ###
