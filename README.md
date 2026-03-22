@@ -32,9 +32,7 @@
 ###
 <div align="center">
   <i>
-    In the past, I lacked knowledge.<br/>
-    Now, through real-world experience, I understand my gaps<br/>
-    and continuously work toward mastering them.
+    “I once lacked knowledge. Now, I know exactly what I still need to learn.”
   </i>
 </div>
 
