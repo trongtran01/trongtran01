@@ -1,5 +1,5 @@
 <div align="center" bolder-bottom="solid 1px">
-  <img height="150" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM3Nzg2bGg5eGQ5b3RwaTQwcXkzeGE4bnl5d3g3dzR6dGlvM2FydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 </div>
 
 
@@ -26,10 +26,17 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi+there%2C+I'm+ToBii;Programming+is+work%2C+life%2C+and+art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&color=00BFFF&center=true&vCenter=true&width=700&lines=+Hi+there%2C+I'm+Tom!" alt="Typing SVG" />
 </div>
 
 ###
+<div align="center">
+  <i>
+    In the past, I lacked knowledge.<br/>
+    Now, through real-world experience, I understand my gaps<br/>
+    and continuously work toward mastering them.
+  </i>
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -46,8 +53,6 @@
 
 - 👯 I’m looking to collaborate on Web Development using modern technologies.
 
-- 📱 Phone number: 0965814299
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -61,14 +66,12 @@
     <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="45" alt="PHP logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React logo" />
     <img src="assets/logo/nodejs-icon.svg" height="45" alt="Nodejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" />
-    <img src="assets/logo/laravel.jpeg" height="45" alt="Laravel logo" />
-    <img src="assets/logo/mysql.png" height="45" alt="MySQL logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="45" alt="Magento logo" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" /> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" /> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" /> -->
+    <!-- <img src="assets/logo/laravel.jpeg" height="45" alt="Laravel logo" /> -->
+    <!-- <img src="assets/logo/mysql.png" height="45" alt="MySQL logo" /> -->
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="TailwindCSS logo" />
-    <img src="assets/logo/71124897.png" height="45" alt="Hyvä Theme logo" />
 </div>
 
 ###
