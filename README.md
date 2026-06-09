@@ -63,9 +63,10 @@
     <img src="assets/logo/JS.png" height="48" alt="JavaScript logo" />
     <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="45" alt="PHP logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React logo" />
+    <img src="https://thesvg.org/icons/nextdotjs/default.svg" height="45" alt="React logo" />
     <img src="assets/logo/nodejs-icon.svg" height="45" alt="Nodejs logo" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" /> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" /> -->
     <!-- <img src="assets/logo/laravel.jpeg" height="45" alt="Laravel logo" /> -->
     <!-- <img src="assets/logo/mysql.png" height="45" alt="MySQL logo" /> -->
