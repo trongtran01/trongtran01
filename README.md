@@ -60,7 +60,7 @@
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo" /> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" /> -->
-    <img src="https://thesvg.org/icons/tailwind-css/default.svg" height="45" alt="TailwindCSS logo" />
+    <img src="https://thesvg.org/icons/tailwind-css/default.svg" alt="TailwindCSS logo" />
     <img src="https://thesvg.org/icons/javascript/default.svg" height="45" alt="JavaScript logo" />
     <img src="https://thesvg.org/icons/typescript/default.svg" height="45" alt="TypeScript logo" />
     <!-- <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="45" alt="PHP logo" /> -->
