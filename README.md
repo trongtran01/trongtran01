@@ -70,7 +70,7 @@
     <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg" height="45" alt="MongoDB logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" /> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" />
+    <img src="https://thesvg.org/icons/docker/default.svg" height="45" alt="Docker logo" />
     <!-- <img src="assets/logo/laravel.jpeg" height="45" alt="Laravel logo" /> -->
     <!-- <img src="assets/logo/mysql.png" height="45" alt="MySQL logo" /> -->
 </div>
