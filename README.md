@@ -96,3 +96,13 @@ Responsive UI with React, performance optimization, UX focus
 > “Good architecture makes everything easier.”
 
 </div>
+
+---
+
+## 🔥 Footer
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
+
+</div>
