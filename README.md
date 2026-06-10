@@ -62,9 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=trongtran01&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trongtran01&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -94,15 +94,5 @@ Responsive UI with React, performance optimization, UX focus
 > “Simplicity scales better than complexity.”  
 > “Code is read more than it is written.”  
 > “Good architecture makes everything easier.”
-
-</div>
-
----
-
-## 🔥 Footer
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
 
 </div>
