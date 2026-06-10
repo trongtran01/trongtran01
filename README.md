@@ -22,19 +22,19 @@
 
 ---
 
-## 🧠 About
+## About
 
 > Frontend-focused fullstack engineer specializing in **building fast, scalable, and maintainable UI systems** with modern React ecosystem.
 
-- 📍 Based in Hanoi, Vietnam  
-- 💻 Strong focus on React, Next.js, TypeScript  
-- 🎨 UI engineering, design systems & component architecture  
-- ⚙️ Backend experience with Node.js & database design  
-- 🚀 Performance optimization & UX-driven development  
+- Based in Hanoi, Vietnam  
+- Strong focus on React, Next.js, TypeScript  
+- UI engineering, design systems & component architecture  
+- Backend experience with Node.js & database design  
+- Performance optimization & UX-driven development  
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <div align="center">
 
@@ -70,27 +70,27 @@
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <div align="center">
 
-### 🎨 UI Engineering Systems
+### UI Engineering Systems
 Building responsive, reusable UI components with React, focusing on performance and scalability.
 
-### ⚡ Frontend Architecture Projects
+### Frontend Architecture Projects
 Next.js applications with structured state management, routing, and optimized rendering strategies.
 
-### 🧩 Fullstack Applications
+### Fullstack Applications
 End-to-end systems with strong emphasis on frontend experience and backend API integration.
 
-### 💳 API & Integration Work
+### API & Integration Work
 Frontend-driven integration with payment systems, authentication flows, and external services.
 
 </div>
 
 ---
 
-## ✨ Philosophy
+## Philosophy
 
 <div align="center">
 
@@ -101,8 +101,6 @@ Frontend-driven integration with payment systems, authentication flows, and exte
 </div>
 
 ---
-
-## 🔥 Footer
 
 <div align="center">
 
