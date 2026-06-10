@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+clean+%26+scalable+systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Frontend-Focused+Fullstack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+performant+and+clean+UI+systems" />
 
 </div>
 
@@ -14,9 +14,9 @@
 <!-- TAGLINE -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0ea5e9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Code-TypeScript%20First-6366f1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Style-Minimal%20%26%20Scalable-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-UI%20Engineering-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Approach-Performance%20First-10b981?style=for-the-badge"/>
 
 </div>
 
@@ -24,13 +24,13 @@
 
 ## 🧠 About
 
-> Fullstack developer focused on building **scalable, maintainable, and performance-driven web applications**.
+> Frontend-focused fullstack engineer specializing in **building fast, scalable, and maintainable UI systems** with modern React ecosystem.
 
-- 📍 Hanoi, Vietnam  
-- 💻 React / Next.js / Node.js / TypeScript  
-- 🧩 Strong focus on architecture & clean code  
-- ⚙️ Experience with backend systems & APIs  
-- 🚀 Always improving system design thinking  
+- 📍 Based in Hanoi, Vietnam  
+- 💻 Strong focus on React, Next.js, TypeScript  
+- 🎨 UI engineering, design systems & component architecture  
+- ⚙️ Backend experience with Node.js & database design  
+- 🚀 Performance optimization & UX-driven development  
 
 ---
 
@@ -74,14 +74,17 @@
 
 <div align="center">
 
-### 🧩 Scalable Web Applications
-Modern fullstack systems with clean architecture and modular design
+### 🎨 UI Engineering Systems
+Building responsive, reusable UI components with React, focusing on performance and scalability.
 
-### ⚡ API & Backend Systems
-RESTful APIs, authentication systems, optimized database design
+### ⚡ Frontend Architecture Projects
+Next.js applications with structured state management, routing, and optimized rendering strategies.
 
-### 🎯 UI Engineering
-Responsive UI with React, performance optimization, UX focus
+### 🧩 Fullstack Applications
+End-to-end systems with strong emphasis on frontend experience and backend API integration.
+
+### 💳 API & Integration Work
+Frontend-driven integration with payment systems, authentication flows, and external services.
 
 </div>
 
@@ -91,9 +94,9 @@ Responsive UI with React, performance optimization, UX focus
 
 <div align="center">
 
-> “Simplicity scales better than complexity.”  
-> “Code is read more than it is written.”  
-> “Good architecture makes everything easier.”
+> “UI is not just design — it is system engineering.”  
+> “Performance is a feature.”  
+> “Good frontend architecture scales like backend systems.”
 
 </div>
 
