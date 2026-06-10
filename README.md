@@ -58,19 +58,21 @@
 ###
 
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" />
-    <img src="assets/logo/JS.png" height="48" alt="JavaScript logo" />
-    <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="45" alt="PHP logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React logo" />
-    <img src="https://thesvg.org/icons/nextdotjs/default.svg" height="45" alt="React logo" />
-    <img src="assets/logo/nodejs-icon.svg" height="45" alt="Nodejs logo" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" /> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" /> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo" /> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" /> -->
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" height="45" alt="TailwindCSS logo" />
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg" height="45" alt="JavaScript logo" />
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" height="45" alt="TypeScript logo" />
+    <!-- <img src="assets/logo/php-logo-png_seeklogo-265704.png" height="45" alt="PHP logo" /> -->
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" height="45" alt="ReactJS logo" />
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nextdotjs/default.svg" height="45" alt="NextJS logo" />
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodedotjs/default.svg" height="45" alt="NodeJS logo" />
+    <img src="cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg" height="45" alt="MongoDB logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker logo" />
     <!-- <img src="assets/logo/laravel.jpeg" height="45" alt="Laravel logo" /> -->
     <!-- <img src="assets/logo/mysql.png" height="45" alt="MySQL logo" /> -->
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="TailwindCSS logo" />
 </div>
 
 ###
