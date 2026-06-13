@@ -3,6 +3,8 @@
 
 <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM3Nzg2bGg5eGQ5b3RwaTQwcXkzeGE4bnl5d3g3dzR6dGlvM2FydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 
+
+
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Frontend-Focused+Fullstack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+performant+and+clean+UI+systems" />
